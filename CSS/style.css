@@ -1,0 +1,20 @@
+.figure{
+    float: right;
+    border: 2px solid grey;
+    text-align: center;
+    width: 200px;
+}
+ul{
+    list-style: none;
+}
+ul > li{
+    float: left;
+    width: 100px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: ;
+}
+ul > li:hover> a{
+    color: white;
+}
